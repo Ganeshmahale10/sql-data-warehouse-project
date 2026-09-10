@@ -93,7 +93,7 @@ create table bronze.erp_PX_CAT_G1V2(
 	ID nvarchar(50),
 	CAT nvarchar(50),
 	SUBCAT nvarchar(50),
-	MAINTENANCE nvarchar(50),
+	MAINTENANCE nvarchar(50)
 );
 
 
