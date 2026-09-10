@@ -1,6 +1,6 @@
 /* 
 
-DDL statements to create all the tables for bronze layer
+DDL statements to create all the tables for Silver layer
 
 It first checks whether the table already exist or not 
 if exist then drop the same and create the new one
